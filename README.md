@@ -17,4 +17,5 @@ I am currently working on creating a website for a future dream my wife and I sh
 
 Here's a link to the project: https://mrjoll3y.github.io/wdd130/pwp/head-over-boots-home
 
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
 Here is my linkedIn profile: https://www.linkedin.com/in/callendjolley/
