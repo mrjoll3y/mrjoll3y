@@ -15,7 +15,52 @@ I am proficient in Python and C++, with hands-on in-class experience in developi
 
 I am currently working on creating a website for a future dream my wife and I share of owning a wedding venue business. While it’s still in development, I’m excited about the direction it’s heading and the opportunity to bring our vision to life through this project.
 
-Here's a link to the project: https://mrjoll3y.github.io/wdd130/pwp/head-over-boots-home
+Here's a link to the project: 
+https://mrjoll3y.github.io/wdd130/pwp/head-over-boots-home
 
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
-Here is my linkedIn profile: https://www.linkedin.com/in/callendjolley/
+Here is my linkedIn profile: 
+https://www.linkedin.com/in/callendjolley/
+
+
+Resume: 
+ 		CALLEN JOLLEY
+
+CONTACT
+Rexburg, ID 83440
+
+PHONE:
+(208) 681 - 4408
+
+EMAIL:
+callen.jolley7@gmail.com
+SKILLS
+•	Team Supervision
+•	Complaint Resolution
+•	Cash Handling
+•	Coaching
+•	New Hire Training
+•	Quick Learner
+•	Excel 
+		EDUCATION
+BACHELOR OF SCIENCE| CYBER SECURITY AND COMPUTER SCIENCE / GENERAL BUSINESS CLUSTERS
+Brigham Young University - Idaho
+Rexburg, ID | Expected in Jul 2025
+WORK EXPERIENCE
+DIGITAL PERSONAL SHOPPER | WALMART
+Rexburg, ID | Mar 2023 - Current
+•	Bagged groceries carefully to keep products in perfect condition, separated fragile products and kept frozen and perishable foods cold or fresh.
+•	Completed pickup and shopping orders for customers within local area.
+•	Satisfied customers with quick, accurate service under tight deadlines.
+•	Secured and stored items until customer pickup.
+•	Assisted teammates with daily tasks during peak periods.
+•	Managing teams of 50-60
+
+TEAM LEADER / TRAINER | CHICK-FIL-A
+Idaho Falls, ID | Oct 2020 - Sep 2022
+•	Delegated daily tasks to team members to optimize group productivity.
+•	Provided coaching and feedback on employee performance, encouraging professional development.
+•	Trained newly hired top talent to fill key positions and maximize productivity.
+•	Reviewed completed work to verify consistency, quality and conformance.
+•	Completed daily quality assurance duties to provide feedback for improvements.
+
