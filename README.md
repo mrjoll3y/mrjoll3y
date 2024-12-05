@@ -1,5 +1,4 @@
 Callen Jolley
-Developing Team Lead @ Walmart1878 
 
 Hello, my name is Callen Jolley. I am a current training lead with 2 years of experience in retail at Walmart and 3 years of management experience I specialize in scheduling, operational management and analysis, and performance improvement. I have a strong background in team management, problem resolution, and store operations.
 
@@ -19,6 +18,7 @@ Here's a link to the project:
 https://mrjoll3y.github.io/wdd130/pwp/head-over-boots-home
 
 [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
 Here is my linkedIn profile: 
 https://www.linkedin.com/in/callendjolley/
 
