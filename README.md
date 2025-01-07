@@ -24,43 +24,49 @@ https://www.linkedin.com/in/callendjolley/
 
 
 Resume: 
- 		CALLEN JOLLEY
 
-CONTACT
-Rexburg, ID 83440
+CALLEN JOLLEY
+callen.jolley7@gmail.com • (208) 681 4408 • https://www.linkedin.com/in/callendjolley/
 
-PHONE:
-(208) 681 - 4408
+SUMMARY
 
-EMAIL:
-callen.jolley7@gmail.com
+Motivated Business Management student seeking internship to gain hands-on experience.
+Outgoing and friendly with a strong drive to succeed.
+People-oriented Team Leader successful in monitoring performance, delegating work and motivating members. Versed in managing daily direction and team communication.
+ 
+EDUCATION
+
+Brigham Young University - Idaho	Sep. 2021 - Apr. 2026
+Bachelor of Science; Computer Programming	GPA: 3.025
+•	Rexburg, ID, Business Management and Computer Programming.
+ 
+EXPERIENCE
+
+Walmart - Digital Personal Shopper; Rexburg, ID	Mar. 2023 - Present
+•	Experienced in managing and evaluating KPIs to drive operational efficiency by achieving 95% customer order accuracy.
+•	Maintained up to date knowledge through continuing education and advanced training through preserving 100% completion of training courses and 100% safety compliance for over 25+ incidents.
+•	Maintained a 4.8/5 average customer satisfaction score by listening and delivering tailored solutions to 60+ Patrons daily.
+•	Coordinated with 3 departments to Stock shelves with newly received merchandise according to established guidelines.
+•	Inspected groceries carefully to keep products in perfect condition, separated fragile products and kept frozen and perishable foods cold and fresh with <1% food waste.
+ 
+Chick-Fil-A - Team Leader | Crew Trainer; Ammon, ID	Sep. 2022 - Sep. 2022
+•	Provided coaching and feedback on 25+ employees performance, encouraging professional development including daily team expectations.
+•	Completed daily quality assurance duties to produce feedback for improvements.
+•	Assigned projects and distributed tasks to team members as per area of expertise on a daily basis.
+•	Interacted with senior leadership in monthly meetings to provide updates on team progress.
+•	Executed high level of customer service to patrons using active listening and engagement skills by resolving 95% of inbound calls.
+ 
 SKILLS
-•	Team Supervision
-•	Complaint Resolution
-•	Cash Handling
-•	Coaching
-•	New Hire Training
-•	Quick Learner
-•	Excel 
-		EDUCATION
-BACHELOR OF SCIENCE| CYBER SECURITY AND COMPUTER SCIENCE / GENERAL BUSINESS CLUSTERS
-Brigham Young University - Idaho
-Rexburg, ID | Expected in Jul 2025
-WORK EXPERIENCE
-DIGITAL PERSONAL SHOPPER | WALMART
-Rexburg, ID | Mar 2023 - Current
-•	Bagged groceries carefully to keep products in perfect condition, separated fragile products and kept frozen and perishable foods cold or fresh.
-•	Completed pickup and shopping orders for customers within local area.
-•	Satisfied customers with quick, accurate service under tight deadlines.
-•	Secured and stored items until customer pickup.
-•	Assisted teammates with daily tasks during peak periods.
-•	Managing teams of 50-60
 
-TEAM LEADER / TRAINER | CHICK-FIL-A
-Idaho Falls, ID | Oct 2020 - Sep 2022
-•	Delegated daily tasks to team members to optimize group productivity.
-•	Provided coaching and feedback on employee performance, encouraging professional development.
-•	Trained newly hired top talent to fill key positions and maximize productivity.
-•	Reviewed completed work to verify consistency, quality and conformance.
-•	Completed daily quality assurance duties to provide feedback for improvements.
+		
+Customer Service.	Decision-Making.	Upbeat and Outgoing Attitude.
+Python/Github.	Attention to Detail.	Mentoring.
+Leadership.	KPI management.	ID Verification.
+POS Systems.	Microsoft Office Suite (Word, PowerPoint, and Excel).	Conflict Resolution.
+ 
+ACCOMPLISHMENTS
+
+•	Eagle Scout (Boy Scouts of America).
+•	Volunteer New student Mentor at BYU-Idaho.
+•	High Honor Roll at Firth Highschool.
 
